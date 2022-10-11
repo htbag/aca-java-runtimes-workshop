@@ -50,3 +50,5 @@ create.sql
 drop.sql
 
 *.dylib
+
+environment.sh
